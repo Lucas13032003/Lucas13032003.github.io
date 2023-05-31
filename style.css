@@ -166,3 +166,8 @@ section .content p{
     font-size: .8rem;
     width: 70%;
 }
+.texto{
+    text-align: justify;
+    font-size: 40px;
+    max-width: 1000px;
+}
