@@ -169,5 +169,6 @@ section .content p{
 .texto{
     text-align: justify;
     font-size: 40px;
-    max-width: 1000px;
+    max-width: 60rem;
+    gap: 3rem;
 }
